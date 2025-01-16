@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+   section{ 
+    width: 20%;
+    justify-content: center;
+    display: flex;
+
+    img{
+        width: 123px;
+        height: 123px;
+    }
+   }
+}
+
+.navHeader{
+    width: 35%;
+    
+    ul{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    li{
+        font-size: 32px;
+        color: #3E3970;
+        cursor: pointer;
+    }
+}

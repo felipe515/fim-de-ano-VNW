@@ -1,0 +1,18 @@
+footer{
+    display: flex;
+    justify-content: flex-end;
+    height: 15vh;
+    align-items: center;
+
+    section{
+        width: 20%;
+        height: 40%;   
+        display: flex;
+        justify-content: space-evenly;
+        
+        img{
+            cursor: pointer;
+        }
+    }
+    
+}

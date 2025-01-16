@@ -1,0 +1,30 @@
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    img {
+        width: 100vh;
+    }
+
+}
+
+.sectionText {
+    width: 35%;
+    text-align: right;
+    color: #3E3970;
+
+    h2{
+        font-size: 36px;
+    }
+
+    h1{
+        font-size: 56px;
+    }
+
+    p{
+        font-size: 26px;
+    }
+
+}

@@ -1,0 +1,9 @@
+main {
+  display: flex;
+  align-items: center;
+  border: 1px solid red;
+}
+main img {
+  border: 1px solid red;
+  width: 100vh;
+}/*# sourceMappingURL=main.module.css.map */

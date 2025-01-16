@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header section {
+  width: 20%;
+  justify-content: center;
+  display: flex;
+}
+header section img {
+  width: 123px;
+  height: 123px;
+}
+
+.navHeader {
+  width: 35%;
+}
+.navHeader ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+.navHeader li {
+  font-size: 32px;
+  color: #3E3970;
+}/*# sourceMappingURL=header.module.css.map */
